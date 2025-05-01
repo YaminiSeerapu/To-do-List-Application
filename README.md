@@ -9,7 +9,27 @@ This To-Do List application is a full-stack project designed to help users manag
 
 # Technologies used
 - Front-End: HTML, CSS, JavaScript, JSP
-- Database : MySQL, JDBC 
+- Database : MySQL, JDBC
+- Server : Apache Tomcat
+
+# Future scope
+1) Due Dates and Reminders
+- Add due dates for tasks and display upcoming deadlines.
+- Integrate notifications (via email, SMS, or in-app alerts) for reminders.
+  
+2) Progress Tracking
+- Gamify the experience with achievement badges for completed tasks.
+  
+3) Reporting and Analytics
+- Add features to generate reports or summaries of completed tasks.
+- Include visual analytics (e.g., pie charts, bar graphs) for task insights.
+
+
+
+
+
+
+
 
 
 
