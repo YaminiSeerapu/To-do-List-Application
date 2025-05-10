@@ -1,6 +1,9 @@
 # To-do-List-Web-Application
 # Project Overview
-This To-Do List application is a full-stack project designed to help users manage their daily tasks efficiently. The project combines a user-friendly front-end built with HTML, CSS, and JavaScript, and a robust back-end implemented in Java with database connectivity. The database queries were optimized to improve performance, reducing load times by 30%.
+This To-Do List application is a full-stack project designed to help users manage their daily tasks efficiently. The project combines a user-friendly front-end built with HTML, CSS, and JavaScript. The app allows users to: 
+- Add new tasks to their todo list
+- Mark tasks as completed
+- Delete tasks from the todo list
 # Features 
 - Task Management: Add, update, and delete tasks with ease.
 - Responsive Design: User-friendly interface that works across devices.
