@@ -4,16 +4,20 @@ This To-Do List application is a full-stack project designed to help users manag
 - Add new tasks to their todo list
 - Mark tasks as completed
 - Delete tasks from the todo list
+  
 # Features 
 - Task Management: Add, update, and delete tasks with ease.
+- Mark Task as Completed: Click on the checkbox next to a task to mark it as completed. The completed tasks will be visually distinguished.
+- Delete Task: Click on the trash button next to a task to delete it from the list.
 - Responsive Design: User-friendly interface that works across devices.
-- Database Integration: Persistent storage of tasks using a connected database.
-- Optimized Performance: Improved database query efficiency for faster load times.
+
 
 # Technologies used
-- Front-End: HTML, CSS, JavaScript, JSP
-- Database : MySQL, JDBC
+- Front-End: HTML, CSS, JavaScript
 - Server : Apache Tomcat
+
+# Clone the repository:
+git clone https://github.com/username/todo-list-app.git
 
 # Future scope
 1) Due Dates and Reminders
